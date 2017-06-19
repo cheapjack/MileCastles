@@ -9,7 +9,7 @@ Live updated [installs as github issue Milestones](https://github.com/cheapjack/
 |Venue|Location|Date|Time|Postcode|Phone
 |----|----|----|----|----|----
 |Senhouse Roman Museum|Maryport|tbc|tbc|CA15|01900 816168
-Tullie House Museum and Art Gallery|Carlisle|29/6/17|12:00 - 16:00|CA3 8TP|011228 618718
+Tullie House Museum and Art Gallery|Carlisle|29/6/17|13:00 - 16:00|CA3 8TP|011228 618718
 Housesteads Roman Fort|Hexham|tbc|tbc|NE47 6NW|01434 344363
 Corbridge Roman Town|Corbridge|28/6/17|11:30 - 16:30|NE45 5NT|0370 333 1181
 Segedunum Roman Fort and Baths|Wallsend|tbc|pending|NE28 6HR|0191 278 4217
