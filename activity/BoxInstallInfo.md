@@ -12,7 +12,7 @@ Live updated [install dates as github issue milestones](https://github.com/cheap
 |Number of Boxes|Box Type|USB data|Power|Notes
 |----|----|----|----|----
 |`I,II`|Indoor|OK|OK| 
-|`III`|Outdoor|Bad|OK|Will require steel brackets and additional length bolts on top 2 box bolts arranged vertically (supplied)
+|`III`|Outdoor|Bad|OK|Will require steel brackets and additional length bolts on top 2 box bolts arranged vertically (supplied). See notes on opening outdoor boxes #114
 
 ## Corbridge (3 indoor, 1 outdoor)
 |Venue|Location|Date|Time|Postcode|Phone|Installed|Image No.
@@ -22,7 +22,7 @@ Live updated [install dates as github issue milestones](https://github.com/cheap
 |Number of Boxes|Box Type|USB data|Power|Notes
 |----|----|----|----|----
 |`I,II,III`|Indoor|OK|OK|
-|`IV`|Outdoor|Bad|OK|
+|`IV`|Outdoor|Bad|OK| See notes on opening outdoor boxes #114
 
 ## Housesteads (1 indoor, 3 outdoor)
 |Venue|Location|Date|Time|Postcode|Phone|Installed|Image No.
@@ -33,7 +33,7 @@ Live updated [install dates as github issue milestones](https://github.com/cheap
 |----|----|----|----|----
 |`I`|Indoor|OK|OK|
 |`II`|Outdoor|OK|OK|
-|`III,IV`|Outdoor|Bad|OK|
+|`III,IV`|Outdoor|Bad|OK|See notes on opening outdoor boxes #114
 
 ## Segedunum (4 indoor, 1 with battery)
 |Venue|Location|Date|Time|Postcode|Phone|Installed|Image No.
